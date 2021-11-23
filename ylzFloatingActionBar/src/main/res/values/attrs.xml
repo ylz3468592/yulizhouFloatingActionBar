@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FloatingDraftButton">
+        <attr name="name3" format="string" />
+        <attr name="name4" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="YlzFloatingActionButton">
+        <attr name="name1" format="string" />
+        <attr name="name2" format="string" />
+    </declare-styleable>
+
+</resources>
